@@ -9,6 +9,7 @@ env/
 .env/
 bin/
 lib/
+.venv/
 
 # 5. Configuración de Base de Datos y Seguridad
 # Seguridad y Config
@@ -58,4 +59,5 @@ yarn-error.log*
 *.db
 *.sql
  
+mlflow.db
 

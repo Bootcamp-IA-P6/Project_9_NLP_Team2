@@ -3,7 +3,7 @@ name = "project-canciones"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.11"
 dependencies = [
     "catboost>=1.2.10",
     "datasets>=4.8.5",
@@ -19,6 +19,7 @@ dependencies = [
     "pytest>=9.0.3",
     "requests>=2.33.1",
     "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
     "streamlit>=1.57.0",
     "tensorflow>=2.21.0",
     "torch>=2.11.0",
