@@ -57,5 +57,8 @@ yarn-error.log*
 *.sqlite
 *.db
 *.sql
- 
 
+# Rutas de datos y reportes
+data/raw/
+data/processed/
+reports/figures/
