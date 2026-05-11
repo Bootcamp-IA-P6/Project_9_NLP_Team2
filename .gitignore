@@ -58,7 +58,7 @@ yarn-error.log*
 *.sqlite
 *.db
 *.sql
- 
+
 mlflow.db
 
 # Rutas de datos y reportes
